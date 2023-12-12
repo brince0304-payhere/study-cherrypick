@@ -1,6 +1,6 @@
 const One = () => (
   <div>
-    <h3>on1</h3>
+    <h4>on2</h4>
     <h1>One</h1>
   </div>
 )
