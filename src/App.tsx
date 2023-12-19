@@ -14,7 +14,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
         >
-          Learn Re
+          Don't Learn React
         </a>
       </header>
     </div>
